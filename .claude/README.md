@@ -9,7 +9,7 @@ Stack: **Shell / build de ISO**.
 
 ## Modelo (todos os perfis)
 - Effort `max` via env `CLAUDE_CODE_EFFORT_LEVEL` (o campo `effortLevel` so aceita low/medium/high/xhigh).
-- 1M nativo no Opus 4.8 e Fable 5 (sem flag).
+- 1M nativo no Opus 5 e Fable 5 (sem flag).
 - Fable 5: incluso no Max ate ~22/jun/2026; depois consome creditos. Requer Claude Code v2.1.170+.
 
 ## Permissoes
